@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![inhwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=inhwa1025)](https://github.com/inhwa1025/github-readme-stats)
 
 
-#### 💪 Skills
+### 💪 Skills
 
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python3-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
