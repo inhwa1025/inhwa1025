@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> JO INHWA 🐾 </h1>
 <h3 align="center"> 🏛 KYUNGHEE UNIV. Computer Engineering major</h3>
-<br><br>
+<br>
 
 👋 Hola❕ I'm Inhwa Jo who is interested in **DataBase**
 
