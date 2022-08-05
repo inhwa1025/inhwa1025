@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3 align="center"> 🏛 KYUNGHEE UNIV. Computer Engineering major</h3>
 <br>
 
-👋 Hola❕ I'm Inhwa Jo who is interested in **DataEngineering & DataScience**
+👋 Hola❕ I'm Inhwa Jo who is interested in **DataEngineering & SystemEngineering**
 
 
 [![inhwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=inhwa1025)](https://github.com/inhwa1025/github-readme-stats)
