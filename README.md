@@ -21,7 +21,7 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<h1 align="center"> JO INHWA 🐾 </h1>
+<h1 align="center"> JO INHWA </h1>
 <h3 align="center"> 🏛 KYUNGHEE UNIV. Computer Engineering major</h3>
 <br>
 
